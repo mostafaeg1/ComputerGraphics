@@ -26,9 +26,7 @@ sudo port install cmake.
   
 ![Alt Text](Assignment3Report/images/teapot2.png) 
 
-![Alt Text](Assignment3Report/images/Assignment3_phong_horse.png) 
-
-![Alt Text](Assignment3Report/images/horse1.png)
+![Alt Text](Assignment3Report/images/horse.png)
 
 ![Alt Text](Assignment3Report/images/Assignment3_phong_horse4.png) 
   
@@ -49,6 +47,8 @@ sudo port install cmake.
 ![Alt Text](Assignment3Report/images/cow1.png) 
   
 ![Alt Text](Assignment3Report/images/cow2.png)
+
+![Alt Text](Assignment3Report/Assignment3_phong_eli4os.png)
   
 
 ### Toon Shading
