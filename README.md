@@ -48,7 +48,7 @@ sudo port install cmake.
   
 ![Alt Text](Assignment3Report/images/cow2.png)
 
-![Alt Text](Assignment3Report/Assignment3_phong_eli4os.png)
+![Alt Text](Assignment3Report/images/Assignment3_phong_eli4os.png)
   
 
 ### Toon Shading
